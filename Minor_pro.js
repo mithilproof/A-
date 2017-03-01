@@ -1,4 +1,4 @@
-
+            // this is the source code of the A star algorithm 
 // Function to delete element from the array
 function removeFromArray(arr, elt) {
   // Could use indexOf here instead to be more efficient
