@@ -16,5 +16,5 @@ Credits:
 Daniel Shiffman
 wikipedia
 mit ocw
-stanford ocw
+stanford OCW
 
