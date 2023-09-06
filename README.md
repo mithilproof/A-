@@ -1,4 +1,4 @@
-# My_Minor-Project
+# UG Project
 
 This is a demonstration of A-star path finding algorithm which I build for my Minor Project for B.Tech.
 
